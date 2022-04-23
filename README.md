@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Deep Neural Networking
 - 💬 Ask me anything Data related
 - 📫 Reach me at dixitprabhat.10@gmail.com
-- ⚡ I love doing hicking, swimming, playing football
+- ⚡ I love doing hiking, swimming, playing football
 
